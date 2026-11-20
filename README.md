@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner-github.png" alt="GitHub Banner" width="100%" />
+</p>
 <h1> Hi, I'm Ali 👋 </h1>
 
 I'm a Python Backend Developer with 1+ year of professional experience in designing, developing, and maintaining backend applications, REST APIs, and AI-driven applications.
